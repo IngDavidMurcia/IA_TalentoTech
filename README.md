@@ -23,12 +23,18 @@
 # Metodología :trollface:
     Para la predicción de los precios futuros de la energía se procedera con metodos estadisticos de análisis sobre series temporales atraves de modelos de IA, aprovechando el uso de 
     datos dispuestos cronologicamente en el sitio web de xm sinergox para lograr visualizar como evolucionan dichos datos en funcion del tiempo, las variables a considerar estan dentro
-    del conjunto de la demanda, reservas energeticas, consumos y otras. dentro de las tecnologías usadas en el proyecto tenemos, VisualStudioCode como editor, python :snake: y librerias
-    como pandas :panda_face: numpy :1234: y tensorflow para los modelos IA, para el despliegue se uso streamlit y este repositorio de github :floppy_disk:, frente a la metodología para
-    el desarrollo se uso ágil scrum con trello como tablero para backlog, google drive y whastapp para la comunicación. 
+    del conjunto de la demanda, reservas energeticas, consumos y otras. dentro de las tecnologías usadas en el proyecto tenemos,
+    - VisualStudioCode como editor :memo:
+    - python cómo lenguaje :snake:
+    - Docker como entorno virtual para el desarrollo. 	:whale:
+    - librerias python para modelos IA como pandas numpy y tensrflow :panda_face: :1234:
+    - streamlit como interfaz de usuario y despliegue :cloud:
+    - github como repositorio :floppy_disk:
+    - para el desarrollo se uso ágil scrum con trello como tablero para backlog :dizzy:
+    -y otras herramientas para la comunicación y almacenamiento en nube, como google drive, whastapp. :family:
 
-  ##  El proyecto se divide en 3 fases: 	:cyclone:
-      -[x]  1. Análisis y preprocesamiento de datos  (EDA and Descomposition) 	:soon:
-      -[]  2. Desarrollar y aplicar modelos para la prediccion de precios. (Model selection, Model prediction) 	:clock130:
-      -[]  3. Despliegue y evaluación de modelos. (Model Evaluation) 	:clock130:
+  ##  El proyecto se divide en 3 fases :cyclone:
+      -[x] Análisis y preprocesamiento de datos  (EDA and Descomposition) 	:soon:
+      -[]  Desarrollar y aplicar modelos para la prediccion de precios. (Model selection, Model prediction) 	:clock130:
+      -[]  Despliegue y evaluación de modelos. (Model Evaluation) 	:clock130:
 
