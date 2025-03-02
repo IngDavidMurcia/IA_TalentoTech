@@ -26,7 +26,7 @@ Team_animation=load_Team_animation("https://lottie.host/a06ca6a1-dc6a-484f-9024-
 
 with st.container():
     st.title("Proyecto IA TalentoTech - Equipo QUBITS")
-    st.header("Este proyecto es un requerimiento para optar por la certificación en el bootcamp de IA TalentoTech")
+#   st.header("Este proyecto es un requerimiento para optar por la certificación en el bootcamp de IA TalentoTech")
     st.subheader("MODELOS PREDICTIVOS BASADOS EN INTELIGENCIA ARTIFICIAL PARA LA ESTIMACIÓN DE DEMANDA Y PRECIOS EN EL MERCADO DE ENERGÍA ELÉCTRICA EN COLOMBIA")
     st.write("##")
     st.write("### Introducción")
