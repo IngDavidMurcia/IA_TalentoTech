@@ -6,7 +6,7 @@
     on IA, the main objective of this repository. Below is a brief description of the projet. 
     for more information about talentotech bootcamp visit: [text](https://talentotech.gov.co/portal/)
 
-![Qubits logo](https://drive.google.com/file/d/1J6xsmOzInkp4ExlP4O5a6JBd9Sv8qXAf/view?usp=sharing)
+![Qubits logo](https://getlogo.net/wp-content/uploads/2020/08/qubit-logo-vector.png)
 
 # Nombre del grupo: QUBITS :punch:
 ### Integrantes :family:
@@ -24,14 +24,14 @@
     Para la predicción de los precios futuros de la energía se procedera con metodos estadisticos de análisis sobre series temporales atraves de modelos de IA, aprovechando el uso de 
     datos dispuestos cronologicamente en el sitio web de xm sinergox para lograr visualizar como evolucionan dichos datos en funcion del tiempo, las variables a considerar estan dentro
     del conjunto de la demanda, reservas energeticas, consumos y otras. dentro de las tecnologías usadas en el proyecto tenemos,
-    - VisualStudioCode como editor :memo:
-    - python cómo lenguaje :snake:
-    - Docker como entorno virtual para el desarrollo. 	:whale:
-    - librerias python para modelos IA como pandas numpy y tensrflow :panda_face: :1234:
-    - streamlit como interfaz de usuario y despliegue :cloud:
-    - github como repositorio :floppy_disk:
-    - para el desarrollo se uso ágil scrum con trello como tablero para backlog :dizzy:
-    -y otras herramientas para la comunicación y almacenamiento en nube, como google drive, whastapp. :family:
+    - VisualStudioCode como editor 📝
+    - python cómo lenguaje 🐍
+    - Docker y venv python como entorno virtual para el desarrollo. 🐳
+    - librerias python para modelos IA como pandas numpy y tensrflow 🤖
+    - streamlit como interfaz de usuario y despliegue ☁️
+    - github como repositorio 🐙
+    - para el desarrollo se uso ágil scrum con trello como tablero para backlog 💨
+    - otras herramientas para la comunicación y almacenamiento en nube, como google drive, whastapp. 🚬
 
   ##  El proyecto se divide en 3 fases :cyclone:
       -[x] Análisis y preprocesamiento de datos  (EDA and Descomposition) 	:soon:
